@@ -12,11 +12,9 @@ npm install
 npm run dev
 ```
 
-## _REPLACE_ Object
+## _mypc_ Object
 
-// Use this file to write your report.
-
-This object has the following properties:
+// This object has a "brand" property which is a string, a "model" property which is also a string, a "year" property which is a number, an "isGaming" property wich is a boolean, an "specs" property which is an array and a "turnOn" property which is a function. 
 
 ## Minimum acceptance Criteria
 
